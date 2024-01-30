@@ -1,0 +1,5 @@
+{
+    "npm.scriptExplorerAction": "run",
+    "npm.autoDetect": "off",
+    "npm-scripts.showStartNotification": false
+}

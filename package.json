@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node src/separar_imagenes.js"
+  },
+  "dependencies": {
+    "sharp": "^0.33.2"
+  }
+}
